@@ -1,0 +1,8 @@
+[project]
+name = "uvwrap-test"
+version = "0.1.0"
+description = "Simple project to test that uvwrap works"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm",
+]
